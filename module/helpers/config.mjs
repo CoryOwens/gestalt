@@ -1,23 +1,29 @@
-export const BOILERPLATE = {};
+export const GESTALT = {};
+
+// Define constants here, such as:
+GESTALT.foobar = {
+  'bas': 'GESTALT.bas',
+  'bar': 'GESTALT.bar'
+};
 
 /**
  * The set of Ability Scores used within the sytem.
  * @type {Object}
  */
- BOILERPLATE.abilities = {
-  "str": "BOILERPLATE.AbilityStr",
-  "dex": "BOILERPLATE.AbilityDex",
-  "con": "BOILERPLATE.AbilityCon",
-  "int": "BOILERPLATE.AbilityInt",
-  "wis": "BOILERPLATE.AbilityWis",
-  "cha": "BOILERPLATE.AbilityCha"
+ GESTALT.abilities = {
+  "str": "GESTALT.AbilityStr",
+  "dex": "GESTALT.AbilityDex",
+  "con": "GESTALT.AbilityCon",
+  "int": "GESTALT.AbilityInt",
+  "wis": "GESTALT.AbilityWis",
+  "cha": "GESTALT.AbilityCha"
 };
 
-BOILERPLATE.abilityAbbreviations = {
-  "str": "BOILERPLATE.AbilityStrAbbr",
-  "dex": "BOILERPLATE.AbilityDexAbbr",
-  "con": "BOILERPLATE.AbilityConAbbr",
-  "int": "BOILERPLATE.AbilityIntAbbr",
-  "wis": "BOILERPLATE.AbilityWisAbbr",
-  "cha": "BOILERPLATE.AbilityChaAbbr"
+GESTALT.abilityAbbreviations = {
+  "str": "GESTALT.AbilityStrAbbr",
+  "dex": "GESTALT.AbilityDexAbbr",
+  "con": "GESTALT.AbilityConAbbr",
+  "int": "GESTALT.AbilityIntAbbr",
+  "wis": "GESTALT.AbilityWisAbbr",
+  "cha": "GESTALT.AbilityChaAbbr"
 };

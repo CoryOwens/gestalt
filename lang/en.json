@@ -1,22 +1,22 @@
 {
-  "BOILERPLATE.AbilityStr": "Strength",
-  "BOILERPLATE.AbilityCon": "Constitution",
-  "BOILERPLATE.AbilityDex": "Dexterity",
-  "BOILERPLATE.AbilityInt": "Intelligence",
-  "BOILERPLATE.AbilityWis": "Wisdom",
-  "BOILERPLATE.AbilityCha": "Charisma",
+  "GESTALT.AbilityStr": "Strength",
+  "GESTALT.AbilityCon": "Constitution",
+  "GESTALT.AbilityDex": "Dexterity",
+  "GESTALT.AbilityInt": "Intelligence",
+  "GESTALT.AbilityWis": "Wisdom",
+  "GESTALT.AbilityCha": "Charisma",
 
-  "BOILERPLATE.AbilityStrAbbr": "str",
-  "BOILERPLATE.AbilityConAbbr": "con",
-  "BOILERPLATE.AbilityDexAbbr": "dex",
-  "BOILERPLATE.AbilityIntAbbr": "int",
-  "BOILERPLATE.AbilityWisAbbr": "wis",
-  "BOILERPLATE.AbilityChaAbbr": "cha",
+  "GESTALT.AbilityStrAbbr": "str",
+  "GESTALT.AbilityConAbbr": "con",
+  "GESTALT.AbilityDexAbbr": "dex",
+  "GESTALT.AbilityIntAbbr": "int",
+  "GESTALT.AbilityWisAbbr": "wis",
+  "GESTALT.AbilityChaAbbr": "cha",
 
-  "BOILERPLATE.EffectCreate": "Create Effect",
-  "BOILERPLATE.EffectToggle": "Toggle Effect",
-  "BOILERPLATE.EffectEdit": "Edit Effect",
-  "BOILERPLATE.EffectDelete": "Delete Effect",
+  "GESTALT.EffectCreate": "Create Effect",
+  "GESTALT.EffectToggle": "Toggle Effect",
+  "GESTALT.EffectEdit": "Edit Effect",
+  "GESTALT.EffectDelete": "Delete Effect",
 
-  "BOILERPLATE.Add": "Add"
+  "GESTALT.Add": "Add"
 }
